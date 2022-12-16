@@ -1,0 +1,48 @@
+.main-sidebar{
+  margin-top: 60px;
+  background-color: rgb(42, 47, 73) !important;
+}
+
+.sidebarSticky{
+  display: sticky !important;
+}
+
+.border-top{
+  color: white !important;
+}
+
+.post-title{
+  color: white !important;
+}
+
+.post-title:hover{
+  color: #00ab6b !important;
+}
+
+.tags-wrapper .post-metadata .post-info{
+  border-bottom: 1px solid rgba(18, 16, 32, 0.09);
+  padding: 10px !important;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.tags-wrapper .post-metadata .post-info:hover{
+  transition: 0.7s;
+  border-bottom: 1px solid rgb(18, 16, 32); 
+}
+
+.post-info .nameSpan{
+  padding: 30px;
+}
+
+.top-stories-links .popover-link>a{
+  color: rgb(175, 210, 241) !important;
+}
+.top-stories-links .popover-link>a:hover{
+  color: rgb(100, 170, 241) !important;
+}
+
+.tags-wrapper{
+  display: flex;
+  flex-direction: column;
+}

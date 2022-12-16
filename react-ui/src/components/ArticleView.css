@@ -1,0 +1,54 @@
+.inViewNone{
+  display: none !important;
+}
+
+.title{
+  color: white !important;
+}
+
+.body p{
+  color: white !important;
+}
+
+.tag{
+  color: white !important;
+  background-color: rgb(91, 91, 156) !important;
+}
+
+.post-tags a{
+  color: white !important;
+}
+
+.post-picture-wrapper{
+  padding: 0px 70px !important;
+}
+
+body.posts.show .post-picture-wrapper img{
+  height: 400px !important;
+  width: 400px !important;
+}
+
+.post-show-footer{
+  background-color: rgb(42, 47, 73) !important;
+  color: white !important;
+
+}
+
+.small-heading{
+  color: white !important;
+}
+
+body.posts.show .related-stories .post-list-item {
+  padding: 20px !important;
+  border-bottom: 1px solid rgb(255 255 255 / 72%) !important;
+}
+
+body.posts.show .main-content .post-stats .response-icon-wrapper {
+  margin-left: 20px;
+  color: rgb(255 252 252 / 60%) !important;
+  text-decoration: none;
+}
+
+/* 
+https://cfstatic.giveindia.org/48c92853-50d1-48ad-addf-9a872d7f20ed.jpg
+*/
